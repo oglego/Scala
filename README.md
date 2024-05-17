@@ -1,2 +1,2 @@
-# Scala
-Repository to house any Scala projects
+# Schema Changes
+Scala project to become more familiar with the language.
